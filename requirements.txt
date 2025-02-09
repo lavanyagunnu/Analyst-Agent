@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+IPython
+scipy
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+gradio
